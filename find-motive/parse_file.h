@@ -6,8 +6,7 @@
 #define EPITA_CPP_PARSE_FILE_H
 
 
-int foo();
-int parse_file(std::string& file_path);
+int parse_file(std::string& file_path, std::string& motif);
 
 
 #endif //EPITA_CPP_PARSE_FILE_H
