@@ -36,3 +36,4 @@ int find_motive(std::string input_file_path, std::string input_motive)
               << " words containing the motive " + input_motive << std::endl;
     return 0;
 }
+
